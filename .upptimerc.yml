@@ -4,14 +4,16 @@ repo: webmonitor # The name of this repository
 
 sites:
   - name: Ingot
-    url: https://www.ingot.cloud/index.fsscript
+    url: https://www.ingot.cloud/css/general.css
     icon: https://www.ingot.cloud/favicon.ico
     method: POST
     maxResponseTime: 5000
+    __dangerous__insecure: true  
   - name: Leeds
     url: https://leeds.lambtoncc.com/index.fsscript
     icon: https://www.ingot.cloud/favicon.ico
     maxResponseTime: 5000
+    __dangerous__insecure: true  
   - name: Etch
     url: https://www.etch-suits.co.uk
   - name: SMUtils
