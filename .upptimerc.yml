@@ -5,10 +5,12 @@ repo: webmonitor # The name of this repository
 sites:
   - name: Ingot
     url: https://www.ingot.cloud/index.fsscript
+    icon: https://www.ingot.cloud/favicon.ico
     method: POST
     maxResponseTime: 5000
   - name: Leeds
     url: https://leeds.lambtoncc.com/index.fsscript
+    icon: https://www.ingot.cloud/favicon.ico
     maxResponseTime: 5000
   - name: Etch
     url: https://www.etch-suits.co.uk
@@ -34,3 +36,13 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+  
