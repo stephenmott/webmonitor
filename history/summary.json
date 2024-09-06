@@ -1,42 +1,42 @@
 [
   {
     "name": "Ingot",
-    "url": "https://www.ingot.cloud",
+    "url": "https://www.ingot.cloud/index.fsscript",
     "icon": "https://icons.duckduckgo.com/ip3/www.ingot.cloud.ico",
     "slug": "ingot",
     "status": "down",
-    "uptime": "2.91%",
-    "uptimeDay": "2.91%",
-    "uptimeWeek": "2.91%",
-    "uptimeMonth": "2.91%",
-    "uptimeYear": "2.91%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 6
     }
   },
   {
     "name": "Leeds",
-    "url": "https://leeds.lambtoncc.com",
+    "url": "https://leeds.lambtoncc.com/index.fsscript",
     "icon": "https://icons.duckduckgo.com/ip3/leeds.lambtoncc.com.ico",
     "slug": "leeds",
     "status": "down",
-    "uptime": "80.66%",
-    "uptimeDay": "80.66%",
-    "uptimeWeek": "80.66%",
-    "uptimeMonth": "80.66%",
-    "uptimeYear": "80.66%",
+    "uptime": "8.67%",
+    "uptimeDay": "8.67%",
+    "uptimeWeek": "8.67%",
+    "uptimeMonth": "8.67%",
+    "uptimeYear": "8.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 5
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {}
   }
 ]
