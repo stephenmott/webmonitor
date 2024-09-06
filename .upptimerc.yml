@@ -9,6 +9,10 @@ sites:
     url: https://leeds.lambtoncc.com/index.fsscript
   - name: Etch
     url: https://www.etch-suits.co.uk
+  - name: SMUtils
+    url: http://www.smutils.com
+  - name: BISPM
+    url: http://www.bispm.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
