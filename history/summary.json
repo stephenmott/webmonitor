@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ingot.cloud.ico",
     "slug": "ingot",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 6
+      "2024-09-06": 8
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leeds.lambtoncc.com.ico",
     "slug": "leeds",
     "status": "down",
-    "uptime": "8.67%",
-    "uptimeDay": "8.67%",
-    "uptimeWeek": "8.67%",
-    "uptimeMonth": "8.67%",
-    "uptimeYear": "8.67%",
+    "uptime": "6.08%",
+    "uptimeDay": "6.08%",
+    "uptimeWeek": "6.08%",
+    "uptimeMonth": "6.08%",
+    "uptimeYear": "6.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 5
+      "2024-09-06": 7
     }
   },
   {
@@ -50,11 +50,47 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 397,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SMUtils",
+    "url": "http://www.smutils.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.smutils.com.ico",
+    "slug": "sm-utils",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 608,
+    "timeDay": 608,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "BISPM",
+    "url": "http://www.bispm.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.bispm.co.uk.ico",
+    "slug": "bispm",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 761,
+    "timeDay": 761,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {}
   }
 ]
