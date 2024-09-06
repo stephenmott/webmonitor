@@ -5,8 +5,11 @@ repo: webmonitor # The name of this repository
 sites:
   - name: Ingot
     url: https://www.ingot.cloud/index.fsscript
+    method: POST
+    maxResponseTime: 5000
   - name: Leeds
     url: https://leeds.lambtoncc.com/index.fsscript
+    maxResponseTime: 5000
   - name: Etch
     url: https://www.etch-suits.co.uk
   - name: SMUtils
