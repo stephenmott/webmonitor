@@ -51,7 +51,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-30": 652,
+      "2024-09-30": 669,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -83,19 +83,19 @@
     "url": "https://www.etch-suits.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.etch-suits.co.uk.ico",
     "slug": "etch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 395,
-    "timeWeek": 443,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 465,
+    "timeDay": 493,
+    "timeWeek": 462,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 17
     }
   },
   {
