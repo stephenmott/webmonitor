@@ -4,9 +4,9 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "up",
+    "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "97.27%",
@@ -16,6 +16,7 @@
     "timeMonth": 1122,
     "timeYear": 1749,
     "dailyMinutesDown": {
+      "2024-11-09": 1,
       "2024-11-06": 49,
       "2024-11-03": 28,
       "2024-11-02": 85,
@@ -69,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-09": 14,
+      "2024-11-09": 124,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
