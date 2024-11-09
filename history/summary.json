@@ -4,19 +4,19 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "up",
+    "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "97.24%",
     "time": 1743,
     "timeDay": 686,
     "timeWeek": 1987,
-    "timeMonth": 1118,
+    "timeMonth": 1122,
     "timeYear": 1743,
     "dailyMinutesDown": {
-      "2024-11-09": 26,
+      "2024-11-09": 27,
       "2024-11-06": 49,
       "2024-11-03": 28,
       "2024-11-02": 85,
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-09": 149,
+      "2024-11-09": 181,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -164,9 +164,9 @@
     "url": "http://www.smutils.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.smutils.com.ico",
     "slug": "sm-utils",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,7 +175,9 @@
     "timeWeek": 521,
     "timeMonth": 623,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-09": 0
+    }
   },
   {
     "name": "BISPM",
