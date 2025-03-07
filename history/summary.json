@@ -5,18 +5,18 @@
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.75%",
+    "uptime": "98.69%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.69%",
     "time": 1135,
     "timeDay": 712,
     "timeWeek": 692,
     "timeMonth": 759,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2025-03-07": 26,
+      "2025-03-07": 19,
       "2025-03-04": 24,
       "2025-03-01": 20,
       "2025-02-25": 21,
@@ -110,7 +110,7 @@
       "2024-10-15": 28,
       "2024-10-12": 90,
       "2024-10-09": 28,
-      "2024-10-07": 33
+      "2024-10-07": 214
     }
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-07": 295,
+      "2025-03-07": 1101,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -320,9 +320,9 @@
     "url": "https://www.etch-suits.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.etch-suits.co.uk.ico",
     "slug": "etch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -332,6 +332,7 @@
     "timeMonth": 586,
     "timeYear": 584,
     "dailyMinutesDown": {
+      "2025-03-07": 0,
       "2025-02-21": 25,
       "2025-02-14": 24,
       "2024-11-08": 35,
