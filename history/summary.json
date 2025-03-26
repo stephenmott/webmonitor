@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 509,
+      "2025-03-26": 521,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -364,19 +364,19 @@
     "url": "http://www.smutils.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.smutils.com.ico",
     "slug": "sm-utils",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 1063,
-    "timeWeek": 913,
-    "timeMonth": 880,
-    "timeYear": 793,
+    "time": 794,
+    "timeDay": 1011,
+    "timeWeek": 919,
+    "timeMonth": 883,
+    "timeYear": 794,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 12
     }
   },
   {
