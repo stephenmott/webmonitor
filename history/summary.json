@@ -11,7 +11,7 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "98.84%",
     "time": 1103,
-    "timeDay": 741,
+    "timeDay": 818,
     "timeWeek": 694,
     "timeMonth": 697,
     "timeYear": 1103,
@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 16,
+      "2025-03-26": 509,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -364,9 +364,9 @@
     "url": "http://www.smutils.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.smutils.com.ico",
     "slug": "sm-utils",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -375,7 +375,9 @@
     "timeWeek": 913,
     "timeMonth": 880,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-26": 0
+    }
   },
   {
     "name": "BISPM",
