@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-17": 248,
+      "2025-07-17": 389,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -478,36 +478,39 @@
     "url": "http://www.smutils.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.smutils.com.ico",
     "slug": "sm-utils",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 700,
-    "timeWeek": 930,
-    "timeMonth": 932,
-    "timeYear": 848,
-    "dailyMinutesDown": {}
+    "time": 847,
+    "timeDay": 684,
+    "timeWeek": 897,
+    "timeMonth": 924,
+    "timeYear": 847,
+    "dailyMinutesDown": {
+      "2025-07-17": 0
+    }
   },
   {
     "name": "BISPM",
     "url": "http://www.bispm.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.bispm.co.uk.ico",
     "slug": "bispm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 755,
-    "timeWeek": 957,
-    "timeMonth": 1002,
-    "timeYear": 965,
+    "time": 964,
+    "timeDay": 689,
+    "timeWeek": 915,
+    "timeMonth": 990,
+    "timeYear": 964,
     "dailyMinutesDown": {
+      "2025-07-17": 0,
       "2024-10-31": 18
     }
   }
