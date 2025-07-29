@@ -6,13 +6,13 @@
     "slug": "ingot",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "98.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "99.15%",
     "time": 984,
-    "timeDay": 798,
-    "timeWeek": 780,
+    "timeDay": 673,
+    "timeWeek": 799,
     "timeMonth": 729,
     "timeYear": 984,
     "dailyMinutesDown": {
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 20,
+      "2025-07-29": 374,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -511,9 +511,9 @@
     "url": "http://www.bispm.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.bispm.co.uk.ico",
     "slug": "bispm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.89%",
@@ -523,6 +523,7 @@
     "timeMonth": 1048,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2025-07-29": 0,
       "2025-07-17": 499,
       "2024-10-31": 18
     }
