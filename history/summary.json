@@ -4,10 +4,10 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.50%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.18%",
     "time": 977,
@@ -16,6 +16,7 @@
     "timeMonth": 841,
     "timeYear": 977,
     "dailyMinutesDown": {
+      "2025-08-23": 1,
       "2025-08-20": 18,
       "2025-08-18": 99,
       "2025-08-16": 35,
@@ -110,8 +111,7 @@
       "2025-01-23": 16,
       "2025-01-22": 19,
       "2025-01-21": 26,
-      "2025-01-20": 16,
-      "2025-01-19": 31
+      "2025-01-20": 16
     }
   },
   {
@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 16,
+      "2025-08-23": 63,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -491,11 +491,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.etch-suits.co.uk.ico",
     "slug": "etch",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 578,
     "timeDay": 401,
     "timeWeek": 527,
