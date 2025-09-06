@@ -9,34 +9,24 @@ fatal: could not read Username for 'https://github.com': terminal prompts disabl
 This error occurred during the checkout step in all Upptime workflows, starting around September 6, 2024.
 
 ## Root Cause
-The workflows were configured to use `${{ secrets.GH_PAT || github.token }}` for authentication. The `GH_PAT` secret was either:
-- Missing
-- Expired
-- Corrupted
-
-And the fallback to `github.token` was not working properly due to the expression syntax.
+The workflows were configured to pass `SECRETS_CONTEXT: ${{ toJson(secrets) }}` to Upptime actions. The repository had an invalid `GH_PAT` secret that was being prioritized over the valid `github.token`.
 
 ## Solution
-Updated all 8 Upptime workflow files to use only the default `github.token` instead of the potentially problematic `GH_PAT` secret:
+Updated 3 Upptime workflow files to remove the problematic `SECRETS_CONTEXT` lines:
 
 ### Files Fixed
 1. `.github/workflows/uptime.yml`
-2. `.github/workflows/setup.yml`
-3. `.github/workflows/site.yml`
-4. `.github/workflows/response-time.yml`
-5. `.github/workflows/graphs.yml`
-6. `.github/workflows/updates.yml`
-7. `.github/workflows/update-template.yml`
-8. `.github/workflows/summary.yml`
+2. `.github/workflows/setup.yml` 
+3. `.github/workflows/response-time.yml`
 
 ### Changes Made
-- Changed `token: ${{ secrets.GH_PAT || github.token }}` to `token: ${{ github.token }}`
-- Changed `GH_PAT: ${{ secrets.GH_PAT || github.token }}` to `GH_PAT: ${{ github.token }}`
-- Changed `github_token: ${{ secrets.GH_PAT || github.token }}` to `github_token: ${{ github.token }}`
+- Removed `SECRETS_CONTEXT: ${{ toJson(secrets) }}` lines from affected workflows
+- Kept `GH_PAT: ${{ github.token }}` for proper authentication
+- Maintained all existing permissions blocks
 
 ## Benefits
 1. **Reliability**: Uses the always-available default `github.token`
-2. **Simplicity**: Removes dependency on external secrets
+2. **Simplicity**: Removes dependency on problematic repository secrets
 3. **Security**: Default token has appropriate permissions set via the `permissions` block
 4. **Maintenance**: No need to manage PAT expiration
 
