@@ -10,10 +10,7 @@ sites:
     maxResponseTime: 5000
     __dangerous__insecure: true  
   - name: Leeds
-    url: https://leeds.lambtoncc.com/index.fsscript
-    icon: https://www.ingot.cloud/favicon.ico
-    maxResponseTime: 5000
-    __dangerous__insecure: true  
+    url: http://leeds.lambtoncc.com/index.fsscript
   - name: Etch
     url: https://www.etch-suits.co.uk
   - name: SMUtils
