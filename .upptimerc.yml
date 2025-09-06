@@ -17,6 +17,8 @@ sites:
     url: http://www.smutils.com
   - name: BISPM
     url: http://www.bispm.co.uk
+  - name: A Leash Above
+    url: http://www.aleashabove.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
