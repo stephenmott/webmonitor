@@ -36,12 +36,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_PAT || github.token }}
+          token: ${{ github.token }}
           fetch-depth: 0
       - name: Update response time
         uses: upptime/uptime-monitor@v1.41.0
         with:
           command: "response-time"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
