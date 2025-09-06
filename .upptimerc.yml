@@ -11,14 +11,19 @@ sites:
     __dangerous__insecure: true  
   - name: Leeds
     url: http://leeds.lambtoncc.com/index.fsscript
+    icon: http://leeds.lambtoncc.com/favicon.ico
   - name: Etch
     url: https://www.etch-suits.co.uk
+    icon: https://www.etch-suits.co.uk/favicon.ico
   - name: SMUtils
-    url: http://www.smutils.com
+    url: https://www.smutils.com
+    icon: https://www.smutils.com/favicon.ico
   - name: BISPM
-    url: http://www.bispm.co.uk
+    url: https://www.bispm.co.uk
+    icon: https://www.bispm.co.uk/favicon.ico
   - name: A Leash Above
-    url: http://www.aleashabove.com
+    url: https://www.aleashabove.com
+    icon: https://www.aleashabove.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
