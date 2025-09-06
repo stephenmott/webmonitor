@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.01%",
+    "uptimeWeek": "95.44%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "99.08%",
     "time": 973,
@@ -116,14 +116,14 @@
   {
     "name": "Leeds",
     "url": "http://leeds.lambtoncc.com/index.fsscript",
-    "icon": "https://icons.duckduckgo.com/ip3/leeds.lambtoncc.com.ico",
+    "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "3.06%",
+    "uptimeWeek": "0.44%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeYear": "0.01%",
     "time": 1233,
     "timeDay": 1233,
     "timeWeek": 1233,
@@ -500,7 +500,7 @@
   {
     "name": "Etch",
     "url": "https://www.etch-suits.co.uk",
-    "icon": "https://icons.duckduckgo.com/ip3/www.etch-suits.co.uk.ico",
+    "icon": "https://www.etch-suits.co.uk/favicon.ico",
     "slug": "etch",
     "status": "up",
     "uptime": "99.85%",
@@ -528,8 +528,8 @@
   },
   {
     "name": "SMUtils",
-    "url": "http://www.smutils.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.smutils.com.ico",
+    "url": "https://www.smutils.com",
+    "icon": "https://www.smutils.com/favicon.ico",
     "slug": "sm-utils",
     "status": "up",
     "uptime": "99.91%",
@@ -548,8 +548,8 @@
   },
   {
     "name": "BISPM",
-    "url": "http://www.bispm.co.uk",
-    "icon": "https://icons.duckduckgo.com/ip3/www.bispm.co.uk.ico",
+    "url": "https://www.bispm.co.uk",
+    "icon": "https://www.bispm.co.uk/favicon.ico",
     "slug": "bispm",
     "status": "up",
     "uptime": "99.90%",
@@ -566,5 +566,23 @@
       "2025-07-17": 499,
       "2024-10-31": 18
     }
+  },
+  {
+    "name": "A Leash Above",
+    "url": "https://www.aleashabove.com",
+    "icon": "https://www.aleashabove.com/favicon.ico",
+    "slug": "a-leash-above",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1498,
+    "timeDay": 1498,
+    "timeWeek": 1498,
+    "timeMonth": 1498,
+    "timeYear": 1498,
+    "dailyMinutesDown": {}
   }
 ]
