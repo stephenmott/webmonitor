@@ -13,7 +13,7 @@
     "time": 965,
     "timeDay": 723,
     "timeWeek": 700,
-    "timeMonth": 822,
+    "timeMonth": 826,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2025-09-13": 173,
@@ -113,11 +113,11 @@
     "url": "http://leeds.lambtoncc.com/index.fsscript",
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
-    "status": "up",
-    "uptime": "2.06%",
-    "uptimeDay": "99.85%",
+    "status": "down",
+    "uptime": "2.07%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "98.30%",
-    "uptimeMonth": "23.35%",
+    "uptimeMonth": "23.41%",
     "uptimeYear": "2.11%",
     "time": 1769,
     "timeDay": 2574,
@@ -505,8 +505,8 @@
     "time": 576,
     "timeDay": 618,
     "timeWeek": 572,
-    "timeMonth": 533,
-    "timeYear": 579,
+    "timeMonth": 537,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-08-07": 44,
       "2025-07-21": 16,
@@ -534,8 +534,8 @@
     "time": 871,
     "timeDay": 719,
     "timeWeek": 698,
-    "timeMonth": 998,
-    "timeYear": 877,
+    "timeMonth": 1005,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2025-07-17": 499
     }
@@ -554,8 +554,8 @@
     "time": 983,
     "timeDay": 1278,
     "timeWeek": 1103,
-    "timeMonth": 1030,
-    "timeYear": 988,
+    "timeMonth": 1035,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-07-17": 499,
       "2024-10-31": 18
