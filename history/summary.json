@@ -6,12 +6,12 @@
     "slug": "ingot",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "95.54%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "96.10%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.38%",
     "time": 942,
-    "timeDay": 667,
+    "timeDay": 653,
     "timeWeek": 701,
     "timeMonth": 697,
     "timeYear": 959,
@@ -80,9 +80,9 @@
     "slug": "leeds",
     "status": "up",
     "uptime": "5.76%",
-    "uptimeDay": "59.98%",
+    "uptimeDay": "62.53%",
     "uptimeWeek": "82.74%",
-    "uptimeMonth": "71.72%",
+    "uptimeMonth": "71.81%",
     "uptimeYear": "6.14%",
     "time": 1552,
     "timeDay": 1535,
@@ -446,8 +446,7 @@
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
-      "2024-10-01": 1440,
-      "2024-09-30": 1440
+      "2024-10-01": 1440
     }
   },
   {
@@ -457,7 +456,7 @@
     "slug": "etch",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "60.55%",
+    "uptimeDay": "63.09%",
     "uptimeWeek": "90.20%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "99.65%",
@@ -479,8 +478,7 @@
       "2025-02-21": 25,
       "2025-02-14": 24,
       "2024-11-08": 35,
-      "2024-11-07": 183,
-      "2024-09-30": 17
+      "2024-11-07": 183
     }
   },
   {
