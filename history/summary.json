@@ -6,12 +6,12 @@
     "slug": "ingot",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "97.83%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "95.75%",
     "uptimeMonth": "96.14%",
     "uptimeYear": "99.65%",
     "time": 932,
-    "timeDay": 755,
+    "timeDay": 733,
     "timeWeek": 744,
     "timeMonth": 714,
     "timeYear": 783,
@@ -57,11 +57,11 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "7.88%",
+    "uptime": "7.89%",
     "uptimeDay": "97.91%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "95.40%",
-    "uptimeYear": "8.59%",
+    "uptimeYear": "8.60%",
     "time": 1516,
     "timeDay": 1382,
     "timeWeek": 1373,
@@ -417,8 +417,7 @@
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
-      "2024-10-10": 1440,
-      "2024-10-09": 1440
+      "2024-10-10": 1440
     }
   },
   {
