@@ -4,9 +4,9 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "98.41%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "98.38%",
     "uptimeWeek": "97.54%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "99.66%",
@@ -47,8 +47,7 @@
       "2025-10-02": 58,
       "2025-10-01": 38,
       "2025-09-30": 134,
-      "2025-09-29": 57,
-      "2025-09-28": 8
+      "2025-09-29": 57
     }
   },
   {
@@ -57,11 +56,11 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "12.78%",
+    "uptime": "12.79%",
     "uptimeDay": "98.13%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "14.73%",
+    "uptimeYear": "14.74%",
     "time": 1507,
     "timeDay": 1747,
     "timeWeek": 1522,
@@ -444,9 +443,9 @@
     "url": "https://www.smutils.com",
     "icon": "https://www.smutils.com/favicon.ico",
     "slug": "sm-utils",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -456,6 +455,7 @@
     "timeMonth": 639,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2025-10-31": 0,
       "2025-07-17": 499
     }
   },
