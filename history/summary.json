@@ -4,19 +4,19 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "90.54%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "89.97%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.61%",
     "time": 910,
-    "timeDay": 621,
-    "timeWeek": 731,
-    "timeMonth": 726,
+    "timeDay": 634,
+    "timeWeek": 729,
+    "timeMonth": 725,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-11-22": 136,
+      "2025-11-22": 144,
       "2025-11-21": 48,
       "2025-11-20": 13,
       "2025-11-19": 21,
@@ -55,8 +55,7 @@
       "2025-10-14": 75,
       "2025-10-13": 12,
       "2025-10-12": 58,
-      "2025-10-11": 276,
-      "2025-10-10": 9
+      "2025-10-11": 276
     }
   },
   {
