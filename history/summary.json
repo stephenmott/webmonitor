@@ -11,9 +11,9 @@
     "uptimeMonth": "97.34%",
     "uptimeYear": "99.65%",
     "time": 910,
-    "timeDay": 744,
-    "timeWeek": 720,
-    "timeMonth": 725,
+    "timeDay": 808,
+    "timeWeek": 722,
+    "timeMonth": 729,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2025-11-25": 10,
@@ -66,15 +66,15 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "17.69%",
+    "uptime": "17.72%",
     "uptimeDay": "94.49%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "21.61%",
+    "uptimeYear": "21.65%",
     "time": 1477,
-    "timeDay": 1359,
-    "timeWeek": 1380,
-    "timeMonth": 1412,
+    "timeDay": 1371,
+    "timeWeek": 1386,
+    "timeMonth": 1393,
     "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-11-25": 79,
@@ -386,8 +386,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -402,10 +401,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 574,
-    "timeDay": 622,
-    "timeWeek": 521,
-    "timeMonth": 539,
-    "timeYear": 571,
+    "timeDay": 490,
+    "timeWeek": 519,
+    "timeMonth": 534,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2025-10-17": 8,
       "2025-10-08": 22,
@@ -433,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.90%",
-    "time": 828,
-    "timeDay": 658,
-    "timeWeek": 560,
-    "timeMonth": 542,
-    "timeYear": 865,
+    "time": 827,
+    "timeDay": 715,
+    "timeWeek": 583,
+    "timeMonth": 545,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2025-10-31": 31,
       "2025-07-17": 499
@@ -454,11 +453,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1006,
-    "timeDay": 2439,
-    "timeWeek": 1307,
-    "timeMonth": 1132,
-    "timeYear": 1046,
+    "time": 1007,
+    "timeDay": 1165,
+    "timeWeek": 1302,
+    "timeMonth": 1135,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2025-07-17": 499
     }
@@ -474,11 +473,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1059,
-    "timeDay": 993,
-    "timeWeek": 1006,
-    "timeMonth": 975,
-    "timeYear": 1059,
+    "time": 1060,
+    "timeDay": 1165,
+    "timeWeek": 1017,
+    "timeMonth": 982,
+    "timeYear": 1060,
     "dailyMinutesDown": {}
   }
 ]
