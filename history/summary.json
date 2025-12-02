@@ -11,8 +11,8 @@
     "uptimeMonth": "96.87%",
     "uptimeYear": "99.60%",
     "time": 834,
-    "timeDay": 742,
-    "timeWeek": 718,
+    "timeDay": 725,
+    "timeWeek": 711,
     "timeMonth": 728,
     "timeYear": 747,
     "dailyMinutesDown": {
@@ -67,16 +67,16 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "18.69%",
+    "uptime": "18.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "23.11%",
-    "time": 1473,
-    "timeDay": 1355,
-    "timeWeek": 1389,
-    "timeMonth": 1384,
-    "timeYear": 1473,
+    "uptimeYear": "23.29%",
+    "time": 1472,
+    "timeDay": 1316,
+    "timeWeek": 1375,
+    "timeMonth": 1386,
+    "timeYear": 1472,
     "dailyMinutesDown": {
       "2025-11-25": 79,
       "2025-10-31": 27,
@@ -381,8 +381,7 @@
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
-      "2024-12-03": 1440,
-      "2024-12-02": 1440
+      "2024-12-03": 1440
     }
   },
   {
@@ -397,10 +396,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 574,
-    "timeDay": 562,
-    "timeWeek": 541,
-    "timeMonth": 535,
-    "timeYear": 570,
+    "timeDay": 540,
+    "timeWeek": 529,
+    "timeMonth": 540,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-10-17": 8,
       "2025-10-08": 22,
@@ -429,10 +428,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 824,
-    "timeDay": 578,
-    "timeWeek": 568,
-    "timeMonth": 543,
-    "timeYear": 860,
+    "timeDay": 562,
+    "timeWeek": 555,
+    "timeMonth": 545,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2025-10-31": 31,
       "2025-07-17": 499
@@ -450,9 +449,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1007,
-    "timeDay": 1299,
-    "timeWeek": 1256,
-    "timeMonth": 1156,
+    "timeDay": 1118,
+    "timeWeek": 1068,
+    "timeMonth": 1162,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-07-17": 499
@@ -470,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1056,
-    "timeDay": 1272,
-    "timeWeek": 1008,
-    "timeMonth": 993,
+    "timeDay": 1068,
+    "timeWeek": 1019,
+    "timeMonth": 1002,
     "timeYear": 1056,
     "dailyMinutesDown": {}
   }
