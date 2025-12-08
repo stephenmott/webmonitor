@@ -4,16 +4,16 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "94.35%",
+    "uptimeDay": "94.34%",
     "uptimeWeek": "97.20%",
-    "uptimeMonth": "96.79%",
+    "uptimeMonth": "96.83%",
     "uptimeYear": "99.59%",
     "time": 773,
     "timeDay": 616,
     "timeWeek": 743,
-    "timeMonth": 735,
+    "timeMonth": 736,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-12-08": 71,
@@ -60,7 +60,7 @@
       "2025-10-22": 11,
       "2025-10-21": 87,
       "2025-10-20": 64,
-      "2025-10-19": 16
+      "2025-10-19": 8
     }
   },
   {
@@ -69,11 +69,11 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "19.90%",
+    "uptime": "19.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "24.98%",
+    "uptimeYear": "25.01%",
     "time": 1468,
     "timeDay": 1339,
     "timeWeek": 1378,
