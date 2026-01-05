@@ -4,18 +4,19 @@
     "url": "https://www.ingot.cloud/css/general.css",
     "icon": "https://www.ingot.cloud/favicon.ico",
     "slug": "ingot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "96.79%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "99.51%",
     "time": 745,
-    "timeDay": 769,
-    "timeWeek": 765,
-    "timeMonth": 721,
+    "timeDay": 743,
+    "timeWeek": 754,
+    "timeMonth": 719,
     "timeYear": 741,
     "dailyMinutesDown": {
+      "2026-01-05": 0,
       "2026-01-04": 51,
       "2026-01-03": 132,
       "2026-01-02": 45,
@@ -65,8 +66,7 @@
       "2025-11-11": 19,
       "2025-11-10": 17,
       "2025-11-08": 81,
-      "2025-11-07": 44,
-      "2025-11-06": 9
+      "2025-11-07": 44
     }
   },
   {
@@ -75,16 +75,16 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "24.41%",
+    "uptime": "24.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "32.48%",
-    "time": 1449,
-    "timeDay": 1459,
-    "timeWeek": 1438,
-    "timeMonth": 1374,
-    "timeYear": 1449,
+    "uptimeYear": "32.63%",
+    "time": 1448,
+    "timeDay": 1204,
+    "timeWeek": 1416,
+    "timeMonth": 1368,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2025-12-28": 11,
       "2025-12-25": 27,
@@ -359,8 +359,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -375,9 +374,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.68%",
     "time": 576,
-    "timeDay": 646,
-    "timeWeek": 559,
-    "timeMonth": 599,
+    "timeDay": 664,
+    "timeWeek": 576,
+    "timeMonth": 598,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-12-28": 11,
@@ -410,10 +409,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 806,
-    "timeDay": 551,
-    "timeWeek": 508,
-    "timeMonth": 541,
-    "timeYear": 828,
+    "timeDay": 522,
+    "timeWeek": 509,
+    "timeMonth": 537,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2025-10-31": 31,
       "2025-07-17": 499
@@ -430,11 +429,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1019,
-    "timeDay": 1346,
+    "time": 1021,
+    "timeDay": 1382,
     "timeWeek": 1159,
-    "timeMonth": 1178,
-    "timeYear": 1059,
+    "timeMonth": 1179,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-07-17": 499
     }
@@ -451,9 +450,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
-    "timeDay": 1091,
-    "timeWeek": 1006,
-    "timeMonth": 1003,
+    "timeDay": 1001,
+    "timeWeek": 985,
+    "timeMonth": 997,
     "timeYear": 1043,
     "dailyMinutesDown": {}
   }
