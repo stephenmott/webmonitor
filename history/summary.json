@@ -8,12 +8,12 @@
     "uptime": "99.63%",
     "uptimeDay": "96.46%",
     "uptimeWeek": "96.36%",
-    "uptimeMonth": "97.04%",
+    "uptimeMonth": "97.10%",
     "uptimeYear": "99.51%",
     "time": 744,
     "timeDay": 594,
     "timeWeek": 747,
-    "timeMonth": 717,
+    "timeMonth": 716,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2026-01-05": 42,
@@ -75,11 +75,11 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "24.50%",
+    "uptime": "24.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "32.63%",
+    "uptimeYear": "32.74%",
     "time": 1448,
     "timeDay": 1204,
     "timeWeek": 1416,
@@ -402,10 +402,10 @@
     "url": "https://www.smutils.com",
     "icon": "https://www.smutils.com/favicon.ico",
     "slug": "sm-utils",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 806,
@@ -414,6 +414,7 @@
     "timeMonth": 537,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2026-01-05": 1,
       "2025-10-31": 31,
       "2025-07-17": 499
     }
@@ -423,18 +424,19 @@
     "url": "https://www.bispm.co.uk",
     "icon": "https://www.bispm.co.uk/favicon.ico",
     "slug": "bispm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.90%",
     "time": 1021,
     "timeDay": 1382,
     "timeWeek": 1159,
     "timeMonth": 1179,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2026-01-05": 1,
       "2025-07-17": 499
     }
   },
@@ -443,9 +445,9 @@
     "url": "https://www.aleashabove.com",
     "icon": "https://www.aleashabove.com/favicon.ico",
     "slug": "a-leash-above",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -454,6 +456,8 @@
     "timeWeek": 985,
     "timeMonth": 997,
     "timeYear": 1043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-05": 0
+    }
   }
 ]
