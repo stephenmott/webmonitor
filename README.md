@@ -27,6 +27,20 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://stephenmott.github.io/webmonitor)
 
+## 🔧 Configuration
+
+### Adding a Fine-Grained Token
+
+To use a custom GitHub fine-grained personal access token with enhanced security:
+
+📖 **[Read the complete guide: Adding a Fine-Grained Token](./ADDING_FINE_GRAINED_TOKEN.md)**
+
+This guide covers:
+- When and why to use a custom token
+- Step-by-step setup instructions
+- Required permissions
+- Troubleshooting common issues
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
