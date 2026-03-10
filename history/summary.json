@@ -11,8 +11,8 @@
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.47%",
     "time": 734,
-    "timeDay": 591,
-    "timeWeek": 634,
+    "timeDay": 618,
+    "timeWeek": 625,
     "timeMonth": 676,
     "timeYear": 735,
     "dailyMinutesDown": {
@@ -79,14 +79,14 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "33.23%",
+    "uptime": "33.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "50.06%",
+    "uptimeYear": "50.10%",
     "time": 1424,
-    "timeDay": 1312,
-    "timeWeek": 1429,
+    "timeDay": 1318,
+    "timeWeek": 1416,
     "timeMonth": 1384,
     "timeYear": 1424,
     "dailyMinutesDown": {
@@ -306,8 +306,7 @@
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
-      "2025-03-11": 1440,
-      "2025-03-10": 1440
+      "2025-03-11": 1440
     }
   },
   {
@@ -322,10 +321,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.68%",
     "time": 583,
-    "timeDay": 542,
-    "timeWeek": 592,
-    "timeMonth": 599,
-    "timeYear": 577,
+    "timeDay": 827,
+    "timeWeek": 629,
+    "timeMonth": 612,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2026-02-27": 21,
       "2026-01-24": 13,
@@ -357,10 +356,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 795,
-    "timeDay": 456,
-    "timeWeek": 549,
-    "timeMonth": 537,
-    "timeYear": 769,
+    "timeDay": 689,
+    "timeWeek": 550,
+    "timeMonth": 540,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2026-01-05": 36,
       "2025-10-31": 31,
@@ -379,8 +378,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1068,
-    "timeDay": 839,
-    "timeWeek": 1139,
+    "timeDay": 1051,
+    "timeWeek": 1115,
     "timeMonth": 1152,
     "timeYear": 1088,
     "dailyMinutesDown": {
@@ -400,9 +399,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1011,
-    "timeDay": 855,
-    "timeWeek": 967,
-    "timeMonth": 958,
+    "timeDay": 1016,
+    "timeWeek": 945,
+    "timeMonth": 957,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2026-01-05": 35
