@@ -94,11 +94,11 @@
     "icon": "http://leeds.lambtoncc.com/favicon.ico",
     "slug": "leeds",
     "status": "up",
-    "uptime": "40.51%",
+    "uptime": "40.52%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "69.70%",
+    "uptimeYear": "69.71%",
     "time": 1423,
     "timeDay": 1477,
     "timeWeek": 1537,
@@ -262,8 +262,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
