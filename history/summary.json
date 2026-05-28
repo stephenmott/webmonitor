@@ -95,13 +95,13 @@
     "slug": "leeds",
     "status": "up",
     "uptime": "40.61%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "69.97%",
+    "uptimeYear": "69.98%",
     "time": 1424,
-    "timeDay": 1717,
-    "timeWeek": 1558,
+    "timeDay": 1740,
+    "timeWeek": 1599,
     "timeMonth": 1487,
     "timeYear": 1424,
     "dailyMinutesDown": {
@@ -262,8 +262,7 @@
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
-      "2025-05-29": 1440,
-      "2025-05-28": 1440
+      "2025-05-29": 1440
     }
   },
   {
