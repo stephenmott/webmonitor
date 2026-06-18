@@ -40,12 +40,12 @@ jobs:
           token: ${{ github.token }}
           fetch-depth: 0
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: upptime/uptime-monitor@latest
         with:
           command: "site"
         env:
           GH_PAT: ${{ github.token }}
-      - uses: peaceiris/actions-gh-pages@v4
+      - uses: peaceiris/actions-gh-pages@latest
         name: GitHub Pages Deploy
         with:
           github_token: ${{ github.token }}
