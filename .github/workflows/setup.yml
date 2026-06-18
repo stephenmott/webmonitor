@@ -52,23 +52,23 @@ jobs:
         env:
           GH_PAT: ${{ github.token }}
       - name: Update summary in README
-        uses: upptime/uptime-monitor@latest
+        uses: upptime/uptime-monitor@v1.42.6
         with:
           command: "readme"
         env:
           GH_PAT: ${{ github.token }}
       - name: Generate graphs
-        uses: benc-uk/workflow-dispatch@latest
+        uses: benc-uk/workflow-dispatch@v1.42.6
         with:
           workflow: Graphs CI
           token: ${{ github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@latest
+        uses: upptime/uptime-monitor@v1.42.6
         with:
           command: "site"
         env:
           GH_PAT: ${{ github.token }}
-      - uses: peaceiris/actions-gh-pages@latest
+      - uses: peaceiris/actions-gh-pages@v1.42.6
         name: GitHub Pages Deploy
         with:
           github_token: ${{ github.token }}
